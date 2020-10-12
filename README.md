@@ -1,2 +1,2 @@
-# AngryBirdsStage2.5StudentActivity
-AngryBirdsStage2.5StudentActivity
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
